@@ -1,0 +1,5 @@
+# Layer 1 (hidden): NOT_AND, OR
+ 1.5 -1.0 -1.0
+-0.5  1.0  1.0
+# Layer 2 (output): AND
+-1.5  1.0  1.0
